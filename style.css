@@ -1,0 +1,12 @@
+*{
+    border:solid; 
+    border-color:brown; 
+    border-radius:10; 
+}
+.items{
+    display:flex; 
+    flex-wrap:wrap; 
+    justify-content:space-evenly; 
+    background-color: cyan
+    ;
+}
